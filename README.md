@@ -26,8 +26,8 @@ El resultado es un conjunto de datos estructurados y validados listos para anál
 ### Instalación de Dependencias
 1. Clona el repositorio:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/marcoortiz18/aura-test.git
+   cd aura-test
    ```
 2. Crea y activa un entorno virtual:
 ```bash
